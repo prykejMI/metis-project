@@ -1,0 +1,17 @@
+Dataset_ID	CONTRIB-TCPA00000001-1
+Source	CONTRIB
+Platform	MDA_RPPA_Core
+Sample_Type	cell line
+Included_In_Summary	yes
+Cancer_Type	Breast Cancer
+RPPA_Batch_ID	NA
+Species	Homo sapiens
+Num_Samples	879
+Num_Antibodies	174
+Normalization_Method	Loading Control
+Normalization_Description	Loading Control
+Dataset_Description	MDA-MB-231 expression following miRNA transfection - first screen
+Comments	NA
+Reference	Chiu et. al., Genome Research
+PMID	25378249
+TCPA_Release	"4.0"

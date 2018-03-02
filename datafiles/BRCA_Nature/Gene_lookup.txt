@@ -1,0 +1,203 @@
+Input	Match type	Approved symbol	Approved name	Confidence	Count	HGNC ID	Location
+ACC	Previous symbol	ACACA	acetyl-CoA carboxylase alpha	High	1	HGNC:84	17q12
+ACC1	Synonyms	ACACA	acetyl-CoA carboxylase alpha	High	2	HGNC:84	17q12
+ACC1	Synonyms	BCL2A1	BCL2 related protein A1	Low	2	HGNC:991	15q25.1
+ACETYLATUBULINLYS40	Unmatched	ATAT1ÿ	alpha tubulin acetyltransferase 1	High	1		
+ACVRL1	Approved symbol	ACVRL1	activin A receptor like type 1	High	1	HGNC:175	12q13.13
+ADAR1	Synonyms	ADAR	"adenosine deaminase, RNA specific"	High	1	HGNC:225	1q21.3
+AKT	Synonyms	AKT1	AKT serine/threonine kinase 1	High	1	HGNC:391	14q32.33
+AMPKALPHA	Unmatched	PRKAA1ÿ	protein kinase AMP-activated catalytic subunit alpha 1	High	1		
+ANNEXIN1	Unmatched	ANXA1	annexin A1	High	1		
+ANNEXINVII	Unmatched	ANXA7	annexin A7	High	1		
+AR	Approved symbol	AR	androgen receptor	High	2	HGNC:644	Xq12
+AR	Synonyms	AKR1B1	aldo-keto reductase family 1 member B	Low	2	HGNC:381	7q33
+ARAF	Approved symbol	ARAF	"A-Raf proto-oncogene, serine/threonine kinase"	High	1	HGNC:646	Xp11.3
+ARID1A	Approved symbol	ARID1A	AT-rich interaction domain 1A	High	1	HGNC:11110	1p36.11
+ASNS	Approved symbol	ASNS	asparagine synthetase (glutamine-hydrolyzing)	High	1	HGNC:753	7q21.3
+ATM	Approved symbol	ATM	ATM serine/threonine kinase	High	1	HGNC:795	11q22.3
+AXL	Approved symbol	AXL	AXL receptor tyrosine kinase	High	1	HGNC:905	19q13.2
+BAD	Approved symbol	BAD	BCL2 associated agonist of cell death	High	1	HGNC:936	11q13.1
+BAK	Synonyms	BAK1	BCL2 antagonist/killer 1	High	1	HGNC:949	6p21.31
+BAP1C4	Unmatched	BAP1ÿ	BRCA1 associated protein 1	High	1		
+BAX	Approved symbol	BAX	"BCL2 associated X, apoptosis regulator"	High	1	HGNC:959	19q13.33
+BCL2	Approved symbol	BCL2	"BCL2, apoptosis regulator"	High	1	HGNC:990	18q21.33
+BCL2A1	Approved symbol	BCL2A1	BCL2 related protein A1	High	1	HGNC:991	15q25.1
+BCLXL	Unmatched	BCL2L1	BCL2-like 1	High	1		
+BECLIN	Unmatched	BECN1	beclin 1	High	1		
+BETACATENIN	Unmatched	CTNNB1	"catenin (cadherin-associated protein), beta 1, 88kDa"	High	1		
+BID	Approved symbol	BID	BH3 interacting domain death agonist	High	1	HGNC:1050	22q11.21
+BIM	Synonyms	BCL2L11	BCL2 like 11	High	1	HGNC:994	2q13
+BRAF	Approved symbol	BRAF	"B-Raf proto-oncogene, serine/threonine kinase"	High	1	HGNC:1097	7q34
+BRCA2	Approved symbol	BRCA2	"BRCA2, DNA repair associated"	High	1	HGNC:1101	13q13.1
+BRD4	Approved symbol	BRD4	bromodomain containing 4	High	1	HGNC:13575	19p13.12
+CABL	Unmatched	ABL1	"ABL proto-oncogene 1, non-receptor tyrosine kinase"	High	1		
+CASPASE3	Unmatched	CASP3	"caspase 3, apoptosis-related cysteine peptidase"	High	1		
+CASPASE7CLEAVEDD198	Unmatched	CASP7	"caspase 7, apoptosis-related cysteine peptidase"	High	1		
+CASPASE8	Unmatched	CASP8	"caspase 8, apoptosis-related cysteine peptidase"	High	1		
+CAVEOLIN1	Unmatched	CAV1	"caveolin 1, caveolae protein, 22kDa"	High	1		
+CD20	Previous symbol	MS4A1	membrane spanning 4-domains A1	High	1	HGNC:7315	11q12.2
+CD26	Previous symbol	DPP4	dipeptidyl peptidase 4	High	1	HGNC:3009	2q24.2
+CD31	Synonyms	PECAM1	platelet and endothelial cell adhesion molecule 1	High	1	HGNC:8823	17q23.3
+CD49B	Synonyms	ITGA2	integrin subunit alpha 2	High	1	HGNC:6137	5q11.2
+CDK1	Approved symbol	CDK1	cyclin dependent kinase 1	High	1	HGNC:1722	10q21.2
+CHK1	Synonyms	CHEK1	checkpoint kinase 1	High	1	HGNC:1925	11q24.2
+CHK2	Synonyms	CHEK2	checkpoint kinase 2	High	1	HGNC:16627	22q12.1
+CIAP	Unmatched	BIRC2 	baculoviral IAP repeat containing 2	High	1		
+CJUN	Unmatched	JUN	jun proto-oncogene	High	1		
+CKIT	Unmatched	KIT	v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog	High	1		
+CLAUDIN7	Unmatched	CLDN7	claudin 7	High	1		
+CMET	Unmatched	MET	"MET proto-oncogene, receptor tyrosine kinase"	High	1		
+CMYC	Unmatched	MYC	v-myc avian myelocytomatosis viral oncogene homolog	High	1		
+COG3	Approved symbol	COG3	component of oligomeric golgi complex 3	High	1	HGNC:18619	13q14.13
+COLLAGENVI	Unmatched	COL6A1	collagen type VI alpha 1 chain	High	1		
+CRAF	Synonyms	RAF1	"Raf-1 proto-oncogene, serine/threonine kinase"	High	1	HGNC:9829	3p25.2
+CYCLINB1	Unmatched	CCNB1	cyclin B1	High	1		
+CYCLIND1	Unmatched	CCND1	cyclin D1	High	1		
+CYCLINE1	Unmatched	CCNE1	cyclin E1	High	1		
+CYCLINE2	Unmatched	CCNE2	cyclin E2	High	1		
+DIRAS3	Approved symbol	DIRAS3	DIRAS family GTPase 3	High	1	HGNC:687	1p31.3
+DJ1	Synonyms	PARK7	Parkinsonism associated deglycase	High	1	HGNC:16369	1p36.23
+DUSP4	Approved symbol	DUSP4	dual specificity phosphatase 4	High	1	HGNC:3070	8p12
+DVL3	Approved symbol	DVL3	dishevelled segment polarity protein 3	High	1	HGNC:3087	3q27.1
+ECADHERIN	Unmatched	CDH1	"cadherin 1, type 1, E-cadherin (epithelial)"	High	1		
+EEF2	Approved symbol	EEF2	eukaryotic translation elongation factor 2	High	1	HGNC:3214	19p13.3
+EEF2K	Approved symbol	EEF2K	eukaryotic elongation factor 2 kinase	High	1	HGNC:24615	16p12.2
+EGFR	Approved symbol	EGFR	epidermal growth factor receptor	High	1	HGNC:3236	7p11.2
+EIF4E	Approved symbol	EIF4E	eukaryotic translation initiation factor 4E	High	1	HGNC:3287	4q23
+EIF4G	Previous symbol	EIF4G1	eukaryotic translation initiation factor 4 gamma 1	High	1	HGNC:3296	3q27.1
+ENY2	Approved symbol	ENY2	"ENY2, transcription and export complex 2 subunit"	High	1	HGNC:24449	8q23.1
+EPPK1	Approved symbol	EPPK1	epiplakin 1	High	1	HGNC:15577	8q24.3
+ERALPHA	Unmatched	ESR1	estrogen receptor 1	High	1		
+ERCC1	Approved symbol	ERCC1	"ERCC excision repair 1, endonuclease non-catalytic subunit"	High	1	HGNC:3433	19q13.32
+ERCC5	Approved symbol	ERCC5	"ERCC excision repair 5, endonuclease"	High	1	HGNC:3437	13q33.1
+ERK2	Synonyms	MAPK1	mitogen-activated protein kinase 1	High	1	HGNC:6871	22q11.22
+ETS1	Approved symbol	ETS1	"ETS proto-oncogene 1, transcription factor"	High	1	HGNC:3488	11q24.3
+FASN	Approved symbol	FASN	fatty acid synthase	High	1	HGNC:3594	17q25.3
+FIBRONECTIN	Unmatched	FN1	fibronectin 1	High	1		
+FOXM1	Approved symbol	FOXM1	forkhead box M1	High	1	HGNC:3818	12p13.33
+FOXO3A	Previous symbol	FOXO3	forkhead box O3	High	1	HGNC:3821	6q21
+G6PD	Approved symbol	G6PD	glucose-6-phosphate dehydrogenase	High	1	HGNC:4057	Xq28
+GAB2	Approved symbol	GAB2	GRB2 associated binding protein 2	High	1	HGNC:14458	11q14.1
+GAPDH	Approved symbol	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	High	1	HGNC:4141	12p13.31
+GATA3	Approved symbol	GATA3	GATA binding protein 3	High	1	HGNC:4172	10p14
+GATA6	Approved symbol	GATA6	GATA binding protein 6	High	1	HGNC:4174	18q11.2
+GCN5L2	Previous symbol	KAT2A	lysine acetyltransferase 2A	High	1	HGNC:4201	17q21.2
+GSK3	Unmatched	GSK3A	glycogen synthase kinase 3 alpha	High	1		
+GSK3ALPHABETA	Unmatched	GSK3A	glycogen synthase kinase 3 alpha	High	1		
+HER2	Synonyms	ERBB2	erb-b2 receptor tyrosine kinase 2	High	1	HGNC:3430	17q12
+HER3	Synonyms	ERBB3	erb-b2 receptor tyrosine kinase 3	High	1	HGNC:3431	12q13.2
+HEREGULIN	Unmatched	NRG1	neuregulin 1	High	1		
+HSP70	Unmatched	HSPA1A	heat shock protein family A (Hsp70) member 1A	High	1		
+IGF1R	Approved symbol	IGF1R	insulin like growth factor 1 receptor	High	1	HGNC:5465	15q26.3
+IGFBP2	Approved symbol	IGFBP2	insulin like growth factor binding protein 2	High	1	HGNC:5471	2q35
+INPP4B	Approved symbol	INPP4B	inositol polyphosphate-4-phosphatase type II B	High	1	HGNC:6075	4q31.21
+IRF1	Approved symbol	IRF1	interferon regulatory factor 1	High	1	HGNC:6116	5q31.1
+IRS1	Approved symbol	IRS1	insulin receptor substrate 1	High	1	HGNC:6125	2q36.3
+JAB1	Synonyms	COPS5	COP9 signalosome subunit 5	High	1	HGNC:2240	8q13.1
+JAK2	Approved symbol	JAK2	Janus kinase 2	High	1	HGNC:6192	9p24.1
+JNK	Synonyms	MAPK8	mitogen-activated protein kinase 8	High	1	HGNC:6881	10q11.22
+JNK2	Synonyms	MAPK9	mitogen-activated protein kinase 9	High	1	HGNC:6886	5q35.3
+KU80	Synonyms	XRCC5	X-ray repair cross complementing 5	High	1	HGNC:12833	2q35
+LCK	Approved symbol	LCK	"LCK proto-oncogene, Src family tyrosine kinase"	High	1	HGNC:6524	1p35.2
+LKB1	Synonyms	STK11	serine/threonine kinase 11	High	1	HGNC:11389	19p13.3
+MAPK	Unmatched	MAPK14	mitogen-activated protein kinase 14	High	1		
+MEK1	Synonyms	MAP2K1	mitogen-activated protein kinase kinase 1	High	1	HGNC:6840	15q22.31
+MIG6	Unmatched	ERRFI1 	ERBB receptor feedback inhibitor 1	High	1		
+MRE11	Approved symbol	MRE11	"MRE11 homolog, double strand break repair nuclease"	High	1	HGNC:7230	11q21
+MSH2	Approved symbol	MSH2	mutS homolog 2	High	1	HGNC:7325	2p21-p16.3
+MSH6	Approved symbol	MSH6	mutS homolog 6	High	1	HGNC:7329	2p16.3
+MTOR	Approved symbol	MTOR	mechanistic target of rapamycin kinase	High	1	HGNC:3942	1p36.22
+MYH11	Approved symbol	MYH11	myosin heavy chain 11	High	1	HGNC:7569	16p13.11
+MYOSINIIA	Unmatched	MYH2ÿ	myosin heavy chain 2	High	1		
+NCADHERIN	Unmatched	CDH2	"cadherin 2, type 1, N-cadherin"	High	1		
+NDRG1	Approved symbol	NDRG1	N-myc downstream regulated 1	High	1	HGNC:7679	8q24.22
+NF2	Approved symbol	NF2	neurofibromin 2	High	1	HGNC:7773	22q12.2
+NFKBP65	Unmatched	RELAÿ	"RELA proto-oncogene, NF-kB subunit"	High	1		
+NOTCH1	Approved symbol	NOTCH1	notch 1	High	1	HGNC:7881	9q34.3
+NRAS	Approved symbol	NRAS	"NRAS proto-oncogene, GTPase"	High	1	HGNC:7989	1p13.2
+P16INK4A	Synonyms	CDKN2A	cyclin dependent kinase inhibitor 2A	High	1	HGNC:1787	9p21.3
+P21	Synonyms	CDKN1A	cyclin dependent kinase inhibitor 1A	High	4	HGNC:1784	6p21.2
+P21	Synonyms	TCEAL1	transcription elongation factor A like 1	Low	4	HGNC:11616	Xq22.2
+P21	Synonyms	NSG1	neuronal vesicle trafficking associated 1	Low	4	HGNC:18790	4p16.3
+P21	Synonyms	H3F3AP6	"H3 histone, family 3A, pseudogene 6"	Low	4	HGNC:42982	4q31.1
+P27	Manual	CDKN1B	cyclin dependent kinase inhibitor 1B	High	4		
+P27	Synonyms	IFI27	interferon alpha inducible protein 27	Low	4	HGNC:5397	14q32.12
+P27	Synonyms	PSMD9	"proteasome 26S subunit, non-ATPase 9"	Low	4	HGNC:9567	12q24.31
+P27	Synonyms	SSSCA1	Sjogren syndrome/scleroderma autoantigen 1	Low	4	HGNC:11328	11q13.1
+P38	Synonyms	MAPK14	mitogen-activated protein kinase 14	High	3	HGNC:6876	6p21.31
+P38	Synonyms	AHSA1	activator of HSP90 ATPase activity 1	Low	3	HGNC:1189	14q24.3
+P38	Synonyms	AIMP2	aminoacyl tRNA synthetase complex interacting multifunctional protein 2	Low	3	HGNC:20609	7p22.1
+P38MAPK	Unmatched	MAPK14	mitogen-activated protein kinase 14	High	1	HGNC:6876	6p21.31
+P53	Synonyms	TP53	tumor protein p53	High	1	HGNC:11998	17p13.1
+P62LCKLIGAND	Unmatched	SQSTM1 	sequestosome 1	High	1		
+P70S6K	Unmatched	RPS6KB1	"ribosomal protein S6 kinase, 70kDa, polypeptide 1"	High	1		
+P70S6K1	Unmatched	RPS6KB1	"ribosomal protein S6 kinase, 70kDa, polypeptide 1"	High	1		
+P90RSK	Synonyms	RPS6KA1	ribosomal protein S6 kinase A1	High	1	HGNC:10430	1p36.11
+PAI1	Previous symbol	SERPINE1	serpin family E member 1	High	1	HGNC:8583	7q22.1
+PARP1	Approved symbol	PARP1	poly(ADP-ribose) polymerase 1	High	1	HGNC:270	1q42.12
+PARPCLEAVED	Unmatched	PARP2	poly(ADP-ribose) polymerase 2	High	1		
+PAXILLIN	Unmatched	PXN	paxillin	High	1		
+PCADHERIN	Unmatched	CDH3	"cadherin 3, type 1, P-cadherin (placental)"	High	1		
+PCNA	Approved symbol	PCNA	proliferating cell nuclear antigen	High	1	HGNC:8729	20p12.3
+PDCD4	Approved symbol	PDCD4	programmed cell death 4	High	1	HGNC:8763	10q25.2
+PDK1	Approved symbol	PDK1	pyruvate dehydrogenase kinase 1	High	2	HGNC:8809	2q31.1
+PDK1	Synonyms	PDPK1	3-phosphoinositide dependent protein kinase 1	Low	2	HGNC:8816	16p13.3
+PDL1	Synonyms	CD274	CD274 molecule	High	1	HGNC:17635	9p24.1
+PEA15	Approved symbol	PEA15	proliferation and apoptosis adaptor protein 15	High	1	HGNC:8822	1q23.2
+PI3KP110ALPHA	Unmatched	PIK3CA	"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha"	High	1		
+PI3KP85	Unmatched	PIK3CA	"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha"	High	1		
+PKCALPHA	Unmatched	PRKCA	"protein kinase C, alpha"	High	1		
+PKCDELTA	Unmatched	PRKCD	"protein kinase C, delta"	High	1		
+PKCPANBETAII	Unmatched		protein kinase C (all)	High	1		
+PR	Synonyms	PGR	progesterone receptor	High	3	HGNC:8910	11q22.1
+PR	Synonyms	PRH2	proline rich protein HaeIII subfamily 2	Low	3	HGNC:9367	12p13.2
+PR	Synonyms	TMEM37	transmembrane protein 37	Low	3	HGNC:18216	2q14.2
+PRAS40	Synonyms	AKT1S1	AKT1 substrate 1	High	1	HGNC:28426	19q13.33
+PRDX1	Approved symbol	PRDX1	peroxiredoxin 1	High	1	HGNC:9352	1p34.1
+PREX1	Approved symbol	PREX1	"phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1"	High	1	HGNC:32594	20q13.13
+PTEN	Approved symbol	PTEN	phosphatase and tensin homolog	High	1	HGNC:9588	10q23.31
+RAB11	Unmatched	RAB11A	"RAB11A, member RAS oncogene family"	High	1		
+RAB25	Approved symbol	RAB25	"RAB25, member RAS oncogene family"	High	1	HGNC:18238	1q22
+RAD50	Approved symbol	RAD50	RAD50 double strand break repair protein	High	1	HGNC:9816	5q31.1
+RAD51	Approved symbol	RAD51	RAD51 recombinase	High	1	HGNC:9817	15q15.1
+RAPTOR	Synonyms	RPTOR	regulatory associated protein of MTOR complex 1	High	1	HGNC:30287	17q25.3
+RB	Synonyms	RB1	RB transcriptional corepressor 1	High	1	HGNC:9884	13q14.2
+RBM15	Approved symbol	RBM15	RNA binding motif protein 15	High	1	HGNC:14959	1p13.3
+RICTOR	Approved symbol	RICTOR	RPTOR independent companion of MTOR complex 2	High	1	HGNC:28611	5p13.1
+S6	Synonyms	RPS6	ribosomal protein S6	High	2	HGNC:10429	9p22.1
+S6	Synonyms	PSMC4	"proteasome 26S subunit, ATPase 4"	Low	2	HGNC:9551	19q13.11-q13.13
+SCD1	Unmatched	SCD	stearoyl-CoA desaturase (delta-9-desaturase)	High	1		
+SETD2	Approved symbol	SETD2	SET domain containing 2	High	1	HGNC:18420	3p21.31
+SF2	Synonyms	SRSF1	serine and arginine rich splicing factor 1	High	1	HGNC:10780	17q22
+SHC	Previous symbol	SHC1	SHC adaptor protein 1	High	1	HGNC:10840	1q21.3
+SHP2	Synonyms	PTPN11	"protein tyrosine phosphatase, non-receptor type 11"	High	1	HGNC:9644	12q24.13
+SLC1A5	Approved symbol	SLC1A5	solute carrier family 1 member 5	High	1	HGNC:10943	19q13.32
+SMAC	Synonyms	DIABLO	diablo IAP-binding mitochondrial protein	High	1	HGNC:21528	12q24.31
+SMAD1	Approved symbol	SMAD1	SMAD family member 1	High	2	HGNC:6767	4q31.21
+SMAD1	Synonyms	GARS	glycyl-tRNA synthetase	Low	2	HGNC:4162	7p14.3
+SMAD3	Approved symbol	SMAD3	SMAD family member 3	High	1	HGNC:6769	15q22.33
+SMAD4	Approved symbol	SMAD4	SMAD family member 4	High	1	HGNC:6770	18q21.2
+SNAIL	Synonyms	SNAI1	snail family transcriptional repressor 1	High	1	HGNC:11128	20q13.13
+SRC	Approved symbol	SRC	"SRC proto-oncogene, non-receptor tyrosine kinase"	High	1	HGNC:11283	20q11.23
+STAT3	Approved symbol	STAT3	signal transducer and activator of transcription 3	High	1	HGNC:11364	17q21.2
+STAT5ALPHA	Unmatched	STAT5A	signal transducer and activator of transcription 5A	High	1		
+STATHMIN	Unmatched	STMN1	stathmin 1	High	1		
+SYK	Approved symbol	SYK	spleen associated tyrosine kinase	High	1	HGNC:11491	9q22.2
+TAZ	Approved symbol	TAZ	tafazzin	High	2	HGNC:11577	Xq28
+TAZ	Synonyms	WWTR1	WW domain containing transcription regulator 1	Low	2	HGNC:24042	3q25.1
+TFRC	Approved symbol	TFRC	transferrin receptor	High	1	HGNC:11763	3q29
+TIGAR	Approved symbol	TIGAR	TP53 induced glycolysis regulatory phosphatase	High	1	HGNC:1185	12p13.32
+TRANSGLUTAMINASE	Unmatched	TGM1	transglutaminase 1	High	1		
+TSC1	Approved symbol	TSC1	TSC complex subunit 1	High	1	HGNC:12362	9q34
+TUBERIN	Synonyms	TSC2	TSC complex subunit 2	High	1	HGNC:12363	16p13.3
+VEGFR2	Synonyms	KDR	kinase insert domain receptor	High	1	HGNC:6307	4q12
+X1433BETA	Unmatched	YWHAB	14-3-3 protein beta/alpha	High	1		
+X1433EPSILON	Unmatched	YWHAE	14-3-3 protein epsilon	High	1		
+X1433ZETA	Unmatched	YWHAZ	"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta"	High	1		
+X4EBP1	Unmatched	EIF4EBP1	eukaryotic translation initiation factor 4E binding protein 1	High	1		
+X53BP1	Unmatched	TP53BP1	tumor protein p53 binding protein 1	High	1		
+XBP1	Approved symbol	XBP1	X-box binding protein 1	High	2	HGNC:12801	22q12.1
+XBP1	Previous symbol	XBP1P1	X-box binding protein 1 pseudogene 1	Low	2	HGNC:12802	5q22.2
+XRCC1	Approved symbol	XRCC1	X-ray repair cross complementing 1	High	1	HGNC:12828	19q13.2
+YAP	Synonyms	YY1AP1	YY1 associated protein 1	High	1	HGNC:30935	1q22
+YB1	Synonyms	YBX1	Y-box binding protein 1	High	1	HGNC:8014	1p34.2
